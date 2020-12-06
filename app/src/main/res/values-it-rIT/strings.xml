@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Acesso</string>
+    <string name="type_username">Inserisci il tuo nome utente</string>
+    <string name="type_password">Digita la tua password</string>
+    <string name="no_account">Non hai un account ?</string>
+    <string name="register">Registrati</string>
+</resources>

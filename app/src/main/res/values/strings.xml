@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Jubank</string>
+    <string name="app_name" translatable="false">Jubank</string>
+    <string name="login">Login</string>
+    <string name="type_username">Type your username</string>
+    <string name="type_password">Type your password</string>
+    <string name="no_account">Don\'t have an account ?</string>
+    <string name="register">Register</string>
 </resources>
