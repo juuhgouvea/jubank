@@ -5,4 +5,5 @@
     <string name="type_password">Digita la tua password</string>
     <string name="no_account">Non hai un account ?</string>
     <string name="register">Registrati</string>
+    <string name="invalid_user">Utente non valido!</string>
 </resources>

@@ -5,4 +5,5 @@
     <string name="type_password">Digite sua senha</string>
     <string name="no_account">Não tem uma conta ?</string>
     <string name="register">Cadastre-se</string>
+    <string name="invalid_user">Usuário inválido!</string>
 </resources>
