@@ -14,7 +14,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        val loggedUserId = getPreferences(Context.MODE_PRIVATE)
+        val loggedUserId = getSharedPreferences("login", Context.MODE_PRIVATE)
                 .getLong("logged_user_id", -1).toInt();
 
         if(loggedUserId !== -1) {
@@ -36,7 +36,7 @@ class LoginActivity : AppCompatActivity() {
         }
 
         user.id?.let {
-            this.getPreferences(Context.MODE_PRIVATE)
+            this.getSharedPreferences("login", MODE_PRIVATE)
                 .edit()
                 .putLong("logged_user_id", it.toLong())
                 .commit()

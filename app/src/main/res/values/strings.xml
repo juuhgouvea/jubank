@@ -34,4 +34,5 @@
     <string name="sent_message">You have sent $ %1$.2f to %2$s</string>
     <string name="confirm_password">Confirm your password</string>
     <string name="sign_up_text">Sign up and join our Jubank group</string>
+    <string name="logout">Logout</string>
 </resources>
