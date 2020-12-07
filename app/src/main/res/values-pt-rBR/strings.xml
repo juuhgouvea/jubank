@@ -26,4 +26,6 @@
     <string name="sending_to">Enviando dinheiro para %1$s</string>
     <string name="amount">Quantia</string>
     <string name="sent_message">Você enviou $ %1$.2f para %2$s</string>
+    <string name="confirm_password">Confirme sua senha</string>
+    <string name="sign_up_text">Cadastre-se e faça parte do nosso grupo Jubank</string>
 </resources>
