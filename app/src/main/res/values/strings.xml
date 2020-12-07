@@ -6,4 +6,30 @@
     <string name="no_account">Don\'t have an account ?</string>
     <string name="register">Register</string>
     <string name="invalid_user">Invalid user!</string>
+    <string name="view_transactions">View transactions</string>
+    <string name="send_money">Send money</string>
+    <string name="view_balance">View balance</string>
+    <string name="view_transactions_short">Transactions</string>
+    <string name="send_money_short">Transfer</string>
+    <string name="view_balance_short">Balance</string>
+    <string name="your_transactions">Your Transactions</string>
+    <string name="food">Food</string>
+    <string name="data">Data</string>
+    <string name="rent">Rent</string>
+    <string name="candles">Candles</string>
+    <string name="utility">Utility</string>
+    <string name="price_300" translatable="false">$ 300</string>
+    <string name="price_200" translatable="false">$ 200</string>
+    <string name="price_3600" translatable="false">$ 3600</string>
+    <string name="price_150" translatable="false">$ 150</string>
+    <string name="your_balance">Your Balance</string>
+    <string name="price_30" translatable="false">$ 30</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="recipient">Recipient</string>
+    <string name="sending_to">Sending money to %1$s</string>
+    <string name="amount">Amount</string>
+    <string name="price_0" translatable="false">$ 0.00</string>
+    <string name="sent_message">You have sent $ %1$.2f to %2$s</string>
 </resources>

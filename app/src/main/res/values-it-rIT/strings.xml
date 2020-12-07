@@ -6,4 +6,24 @@
     <string name="no_account">Non hai un account ?</string>
     <string name="register">Registrati</string>
     <string name="invalid_user">Utente non valido!</string>
+    <string name="view_transactions">Visualizzare le transazioni</string>
+    <string name="send_money">Inviare soldi</string>
+    <string name="view_balance">Visualizzare il saldo</string>
+    <string name="view_transactions_short">Transazioni</string>
+    <string name="send_money_short">Transferência</string>
+    <string name="view_balance_short">Saldo</string>
+    <string name="your_transactions">"Le tue transazioni "</string>
+    <string name="food">Cibo</string>
+    <string name="data">Dati</string>
+    <string name="rent">Affito</string>
+    <string name="candles">Candeles</string>
+    <string name="utility">Utilità</string>
+    <string name="your_balance">Il tuo Saldo</string>
+    <string name="name">Nome</string>
+    <string name="next">Il prossimo</string>
+    <string name="cancel">Annulla</string>
+    <string name="recipient">Destinatario</string>
+    <string name="sending_to">Invio di denaro a %1$s</string>
+    <string name="amount">Quantitá</string>
+    <string name="sent_message">Hai inviato $ %1$.2f a %2$s</string>
 </resources>
