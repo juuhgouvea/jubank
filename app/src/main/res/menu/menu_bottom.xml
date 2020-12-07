@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/viewTransactionsFragment"
+        android:icon="@drawable/ic_view"
+        android:title="@string/view_transactions"
+        android:titleCondensed="@string/view_transactions_short" />
+    <item
+        android:id="@+id/chooseRecipientFragment"
+        android:icon="@drawable/ic_send"
+        android:title="@string/send_money"
+        android:titleCondensed="@string/send_money_short" />
+    <item
+        android:id="@+id/viewBalanceFragment"
+        android:icon="@drawable/ic_view"
+        android:title="@string/view_balance"
+        android:titleCondensed="@string/view_balance_short" />
+</menu>
